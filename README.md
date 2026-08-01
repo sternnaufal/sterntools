@@ -74,3 +74,8 @@ plugin_main() {
 ```bash
 bash install.sh
 ```
+
+
+---
+
+Dibuat oleh [Naufal Rakha Putra](https://www.naufalrakha.my.id) — lihat [case study](https://www.naufalrakha.my.id/case-study/sterntools) dan proyek lainnya di [naufalrakha.my.id](https://www.naufalrakha.my.id)
